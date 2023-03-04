@@ -1,0 +1,58 @@
+numpy
+scipy
+pandas
+pyarrow
+matplotlib
+seaborn
+scikit-learn
+networkx
+
+# dependencies for pyod
+six
+statsmodels
+joblib
+lightgbm
+xgboost
+catboost
+pythresh
+combo
+pyod
+
+# dependencies for adbench
+# copulas
+# rtdl
+# delu
+
+# pytorch for mac
+# torch
+# torchvision
+# torchaudio
+# tensorboard
+
+# tensorflow for mac
+# keras
+# tensorflow-macos
+# tensorflow-metal
+
+# dependencies for open_spiel
+# attrs
+# absl-py
+# open_spiel
+
+# code formatting
+black
+jupyter-black
+
+# jupyter notebook
+jupyter
+
+# data
+python-mnist
+
+# git
+github.py
+
+# gurobipy
+# cvxpy
+# pyscipopt
+# cvxopt
