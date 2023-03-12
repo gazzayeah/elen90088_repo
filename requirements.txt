@@ -8,15 +8,15 @@ scikit-learn
 networkx
 
 # dependencies for pyod
-six
-statsmodels
-joblib
-lightgbm
-xgboost
-catboost
-pythresh
-combo
-pyod
+# six
+# statsmodels
+# joblib
+# lightgbm
+# xgboost
+# catboost
+# pythresh
+# combo
+# pyod
 
 # dependencies for adbench
 # copulas
@@ -47,7 +47,7 @@ jupyter-black
 jupyter
 
 # data
-python-mnist
+# python-mnist
 
 # git
 github.py
