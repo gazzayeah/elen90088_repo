@@ -1,12 +1,11 @@
+tensorflow
+matplotlib
+scikit-learn
 numpy
 scipy
 pandas
 pyarrow
-matplotlib
 seaborn
-scikit-learn
-networkx
-
 # dependencies for pyod
 # six
 # statsmodels
@@ -45,7 +44,7 @@ jupyter-black
 
 # jupyter notebook
 jupyter
-
+jupyterlab
 # data
 # python-mnist
 
